@@ -1,0 +1,17 @@
+
+div{
+    border-radius: 5px;
+    height: 200px;
+    width: 550px;
+    background-color: white;
+    text-align: center;
+    box-shadow:0px 8px 7px 2px rgb(14, 155, 66), 0px 12px 9px 4px rgb(186, 13, 181),0px 30px 9px 4px rgb(0, 0, 0),  0px 30px 20px 20px rgb(17, 112, 167), 0px 40px 12px 10px rgb(210, 233, 10),  0px 50px 40px 10px rgb(33, 139, 158) ,  0px 55px 50px 30px rgb(20, 131, 62);
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: rgba(218, 221, 221, 0.5);
+}
